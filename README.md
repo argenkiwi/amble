@@ -1,3 +1,5 @@
+> **Moved.** amble is now **ambler** and lives at https://github.com/argenkiwi/ambler. Install with `cargo install --git https://github.com/argenkiwi/ambler`. This repository is archived.
+
 # amble
 
 The common entry point of a command line for coding agents (and people) that scaffolds and checks [Ambler](https://github.com/argenkiwi/ambler-rs) projects: programs built as walks (state machines) of small, tested nodes. Projects are Rust ([ambler-rs](https://github.com/argenkiwi/ambler-rs)) by default, TypeScript on Bun ([ambler-ts](https://github.com/argenkiwi/ambler-ts)) with `--target ts`, or Python on uv ([ambler-py](https://github.com/argenkiwi/ambler-py)) with `--target py`.
